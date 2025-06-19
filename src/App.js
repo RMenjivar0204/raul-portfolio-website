@@ -9,6 +9,11 @@ function App() {
       <p>Another test</p>
       <p>This is a test from the PC</p>
       <p>Macbook again, created some folders too</p>
+      <ul>
+        <li>One</li>
+        <li>Two</li>
+        <li>Three</li>
+      </ul>
     </div>
   );
 }
