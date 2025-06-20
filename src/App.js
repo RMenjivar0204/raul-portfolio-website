@@ -14,6 +14,11 @@ function App() {
         <li>Two</li>
         <li>Three</li>
       </ul>
+      <ol>
+        <li>One</li>
+        <li>Two</li>
+        <li>Three</li>
+      </ol>
     </div>
   );
 }
