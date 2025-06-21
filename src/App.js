@@ -1,9 +1,11 @@
 // import logo from './logo.svg';
 import './App.css';
+import Header from './components/header';
 
 function App() {
   return (
     <div className="App">
+      <Header />
       <p>Welcome to my Website.</p>
       <p>This is a test from the Macbook</p>
       <p>Another test</p>
