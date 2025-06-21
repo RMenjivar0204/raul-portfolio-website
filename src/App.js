@@ -21,6 +21,7 @@ function App() {
         <li>Two</li>
         <li>Three</li>
       </ol>
+      <p>Do you like the Header? It's a component now!</p>
     </div>
   );
 }
