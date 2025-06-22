@@ -1,6 +1,7 @@
 // import logo from './logo.svg';
 import './App.css';
-import Header from './components/header';
+import Header from './components/Header';
+import Card from "./components/Card";
 
 function App() {
   return (
@@ -22,6 +23,11 @@ function App() {
         <li>Three</li>
       </ol>
       <p>Do you like the Header? It's a component now!</p>
+      <Card 
+        name="Raul"
+        tel="(281)857-2391"
+        email="raul.menjivar4@gmail.com"
+        />
     </div>
   );
 }
